@@ -3,7 +3,6 @@ sudo apt  install docker.io
 
 sudo docker pull tensorflow/tensorflow
 
-## Important commands for the QA Project 
 #### Installing git Version Control in Ubuntu 
 ```
 ### Download the github desktop Application 
