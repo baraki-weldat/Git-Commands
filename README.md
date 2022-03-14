@@ -14,6 +14,11 @@ sudo apt-get install gdebi-core
 sudo gdebi GitHubDesktop-linux-2.9.3-linux3.deb
 
 ```
+### Installing Anaconda Notebook in Ubuntu 
+### 1.
+sudo apt install libgl1-mesa-glx libegl1-mesa libxrandr2 libxrandr2 libxss1 libxcursor1 libxcomposite1 libasound2 libxi6 libxtst6
+### 2.
+### 3.
 
 
 This command pulls the remote repository into your local computer:
