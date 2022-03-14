@@ -35,6 +35,16 @@ source ~/.bashrc
 ```
 anaconda-navigator
 ```
+### Installing TensorFlow in Anaconda 
+```
+conda create -n tf tensorflow
+conda activate tf
+```
+#### or 
+```
+pip install tensorflow
+```
+
 This command pulls the remote repository into your local computer:
 ```
 git clone https://github.com/baraki-weldat/Question-Answering-for-Tigrigna-Language.git
